@@ -1,0 +1,3 @@
+2021-09-10T14:01:37.511961500 :  One McCoys removed
+2021-09-10T14:06:27.725869500 :  One Cereal bar removed
+2021-09-10T14:10:14.077697800 :  One Kitkat removed
